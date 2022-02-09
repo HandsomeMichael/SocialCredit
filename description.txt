@@ -1,0 +1,22 @@
+this mod add social credit.
+
+if u have  -1 social credit, you will instantly get nuked
+
+u spawn in the world with 100 social credit
+social credit capped at 999
+
+List of things that effect social credit :
+
+- using luiafk mod ( -10 social credit )
+- using calamity mod ( - 80 social credit )
+- using communist terraria mod ( +69 social credit )
+- saying taiwan is not a country ( +10 social credit )
+- saying taiwan is a country ( -9999999 social credit )
+- hitting bunny ( +1 social credit )
+- killing bosses ( +20 social credit )
+- uses nurse heaing ( - 50 social credit)
+- kill nurse ( +100 social credit )
+- killing enemy ( +1 social credit )
+- damaged ( -damage social credit )
+- buyying things from non chineese company ( -1 social credit )
+- dying reduces max social credit by 10

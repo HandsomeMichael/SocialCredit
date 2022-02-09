@@ -1,0 +1,7 @@
+displayName = Social Credit
+author = Lasthue Or Neko
+homepage = https://github.com/HandsomeMichael/SocialCredit
+hideCode = false
+hideResources = false
+includeSource = true
+version = 0.2
